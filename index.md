@@ -4,7 +4,7 @@ College of Intelligent Science and Technology, Hangzhou Institute for Advanced S
 ## Couse Information
 **Introduction:** This course will trace and explore major scientific issues, design principles and methodologies of the current critical network infrastructure, e.g. Internet, Industrial networks and smart grids. The course make you familiar with the recent developments in network architecture, protocols and systems, which gets you to learn advances with the times of technical evolvements. You will read corresponding papers, and understand its critical issues and solutions. Meanwhile, you can learn to use the recent experiment platform for conducting researches in future.     
 
-**Instructor:** ZHOU Boyang <zhouby@zhejianglab.com>, Zhejiang Lab
+**Instructor:** ZHOU Boyang <<zhouby@zhejianglab.com>>, Zhejiang Lab
 
 **Lecture Time:** On monday 14:20-16:50pm and friday 14:20-16:50pm from Jun. 13th, 2022 to Jul. 8th, 2022.
 
