@@ -1,8 +1,38 @@
 # Course Materials for Advanced Topics in Computer Networks
 College of Intelligent Science and Technology, HIAS, UCAS, CN
 
+## Syllabus
+**Week 1:**
+1.1 Introduction to courses and paper readings
+1.2 Internet architecture and design principles
+1.3 Key technologies in Internet
+1.4 Network simulation environment
+1.5 Future Internet architectures
+
+**Week 2:**
+2.1 Software-defined networking architecture
+2.2 Technolgoies in SDN I
+2.3 Paper discussions seminar I
+2.4 Technolgoies in SDN II
+3.1 Named-data networking I
+
+**Week 3:**
+3.2 Named-data networking II
+3.3 Paper discussions seminar II
+3.4 Named-data networking III
+4.1 Industrial Internet framework
+4.2 Time sensitive networking technologies
+
+**Week 4:**
+4.3 Paper discussions seminar III
+4.4 Smart grid communications and security I
+4.5 Smart grid communications and security II
+5.1 Oral presentation I
+5.2 Oral presentation II
+
 ## List of papers to read in each week of the course:
 (Note that the following materials contained are only used for educational purposes)
+
 **Week 1:**
 - The design philosophy of the DARPA Internet protocols[C]//Symposium proceedings on Communi-cations architectures and protocols. 1988: 106-114. ([download](https://raw.githubusercontent.com/zhouby-zjl/course-atcs/gh-pages/Week%201/The%20Design%20Philosophy%20of%20the%20DARPA%20Internet%20Protocols.pdf))
 - A brief history of the Internet[J]. ACM SIGCOMM Computer Communication Review, 2009, 39(5): 22-31.  ([download](https://raw.githubusercontent.com/zhouby-zjl/course-atcs/gh-pages/Week%201/A%20brief%20history%20of%20the%20internet.pdf))
@@ -29,4 +59,6 @@ College of Intelligent Science and Technology, HIAS, UCAS, CN
 - Smart grid technologies: Communication technologies and standards[J]. IEEE transactions on In-dustrial informatics, 2011, 7(4): 529-539.  ([download](https://raw.githubusercontent.com/zhouby-zjl/course-atcs/gh-pages/Week%204/Smart_Grid_Technologies_Communication_Technologies_and_Standards.pdf))
 - iPRP—The parallel redundancy protocol for IP networks: Protocol design and operation[J]. IEEE Transactions on Industrial Informatics, 2016, 12(5): 1842-1854.  ([download](https://raw.githubusercontent.com/zhouby-zjl/course-atcs/gh-pages/Week%204/iPRPThe_Parallel_Redundancy_Protocol_for_IP_Networks_Protocol_Design_and_Operation.pdf))
 
-
+## Programming Assignments
+**Understanding congestion control processes in TCP in NS-3.**
+The assignment will be released in the 1st week.
