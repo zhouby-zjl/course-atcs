@@ -1,4 +1,4 @@
-# Course Materials for Advanced Topics in Computer Networks
+# Course for Advanced Topics in Computer Networks
 College of Intelligent Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences
 
 ## Couse Information
