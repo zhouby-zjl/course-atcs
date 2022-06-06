@@ -3,32 +3,32 @@ College of Intelligent Science and Technology, HIAS, UCAS, CN
 
 ## Syllabus
 **Week 1:**
-1.1 Introduction to courses and paper readings
-1.2 Internet architecture and design principles
-1.3 Key technologies in Internet
-1.4 Network simulation environment
-1.5 Future Internet architectures
+- 1.1 Introduction to courses and paper readings
+- 1.2 Internet architecture and design principles
+- 1.3 Key technologies in Internet
+- 1.4 Network simulation environment
+- 1.5 Future Internet architectures
 
 **Week 2:**
-2.1 Software-defined networking architecture
-2.2 Technolgoies in SDN I
-2.3 Paper discussions seminar I
-2.4 Technolgoies in SDN II
-3.1 Named-data networking I
+- 2.1 Software-defined networking architecture
+- 2.2 Technolgoies in SDN I
+- 2.3 Paper discussions seminar I
+- 2.4 Technolgoies in SDN II
+- 3.1 Named-data networking I
 
 **Week 3:**
-3.2 Named-data networking II
-3.3 Paper discussions seminar II
-3.4 Named-data networking III
-4.1 Industrial Internet framework
-4.2 Time sensitive networking technologies
+- 3.2 Named-data networking II
+- 3.3 Paper discussions seminar II
+- 3.4 Named-data networking III
+- 4.1 Industrial Internet framework
+- 4.2 Time sensitive networking technologies
 
 **Week 4:**
-4.3 Paper discussions seminar III
-4.4 Smart grid communications and security I
-4.5 Smart grid communications and security II
-5.1 Oral presentation I
-5.2 Oral presentation II
+- 4.3 Paper discussions seminar III
+- 4.4 Smart grid communications and security I
+- 4.5 Smart grid communications and security II
+- 5.1 Oral presentation I
+- 5.2 Oral presentation II
 
 ## List of papers to read in each week of the course:
 (Note that the following materials contained are only used for educational purposes)
