@@ -1,11 +1,16 @@
 # Course Materials for Advanced Topics in Computer Networks
-College of Intelligent Science and Technology, HIAS, UCAS, CN
+College of Intelligent Science and Technology, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences
 
 ## Couse Information
 **Introduction:** This course will trace and explore major scientific issues, design principles and methodologies of the current critical network infrastructure, e.g. Internet, Industrial networks and smart grids. The course make you familiar with the recent developments in network architecture, protocols and systems, which gets you to learn advances with the times of technical evolvements. You will read corresponding papers, and understand its critical issues and solutions. Meanwhile, you can learn to use the recent experiment platform for conducting researches in future.     
 
-
 **Instructor:** ZHOU Boyang <zhouby@zhejianglab.com>, Zhejiang Lab
+
+**Lecture Time:** On monday 14:20-16:50pm and friday 14:20-16:50pm from Jun. 13th, 2022 to Jul. 8th, 2022.
+
+**Prerequisites:** This course assumes that you have mastered the computer networks and been familiar with C++ programming as basis. In addition, you need some experiences in operating Linux system.
+
+**Textbook:** For the basic knowledgement about computer networks, you could read textbooks like "Computer Networking: A Top-Down Approach 7th Edition". We will mostly use research papers as our course materials.
 
 ## Syllabus
 **Week 1:**
