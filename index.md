@@ -73,4 +73,4 @@ College of Intelligent Science and Technology, Hangzhou Institute for Advanced S
 ## Programming Assignments
 **Understanding congestion control processes in TCP in NS-3.**
 
-The assignment will be released in the 1st week.
+The assignment will be released at the beginning of the 1st week.
