@@ -73,5 +73,5 @@ College of Intelligent Science and Technology, Hangzhou Institute for Advanced S
 
 ## Programming Assignments
 **Understanding congestion control processes in TCP in NS-3.**
+The assignment helps you to learn the dynamic QoS performance of TCP under different link congestion levels through using the well-known NS-3 simulator. You need to download the assignment from this [link](https://raw.githubusercontent.com/zhouby-zjl/course-atcs/gh-pages/Experiments/Programming-Assignment.pdf), and follows the instructions inside the assignment to setup the necessary experiment environment before Jun. 17th, 2022. 
 
-The assignment will be released at the beginning of the 1st week.
