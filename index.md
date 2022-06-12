@@ -72,6 +72,7 @@ College of Intelligent Science and Technology, Hangzhou Institute for Advanced S
 - iPRP—The parallel redundancy protocol for IP networks: Protocol design and operation[J]. IEEE Transactions on Industrial Informatics, 2016, 12(5): 1842-1854.  ([download](https://raw.githubusercontent.com/zhouby-zjl/course-atcs/gh-pages/Week%204/iPRPThe_Parallel_Redundancy_Protocol_for_IP_Networks_Protocol_Design_and_Operation.pdf))
 
 ## Programming Assignments
-**Understanding congestion control processes in TCP in NS-3.**
-The assignment helps you to learn the dynamic QoS performance of TCP under different link congestion levels through using the well-known NS-3 simulator. You need to download the assignment from this [link](https://raw.githubusercontent.com/zhouby-zjl/course-atcs/gh-pages/Experiments/Programming-Assignment.pdf), and follows the instructions inside the assignment to setup the necessary experiment environment before Jun. 17th, 2022. 
+**Programming assignment: Understanding the congestion control process in TCP in NS-3**
+
+The assignment helps you to learn the dynamic QoS performance of TCP under different link congestion levels through using the well-known NS-3 simulator. You need to download the assignment from this [link](https://raw.githubusercontent.com/zhouby-zjl/course-atcs/gh-pages/Experiments/Programming-Assignment.pdf), and follow the instructions inside the assignment to setup the necessary experiment environment before Jun. 17th, 2022. 
 
