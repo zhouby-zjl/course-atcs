@@ -7,6 +7,8 @@ College of Intelligent Science and Technology, Hangzhou Institute for Advanced S
 
 **Instructor:** ZHOU Boyang <<zhouby@zhejianglab.com>>, Zhejiang Lab
 
+**Teaching Assistant:** NIE Yinghui <<nieyh@zhejianglab.com>>, Zhejiang Lab
+
 **Lecture Time:** On xxx xx:xx-xx:xx pm and xxx xx:xx-xx:xx pm from Jun. 12th, 2023 to Jul. 9th, 2023 (to be confirmed soon).
 
 **Prerequisites:** This course assumes that you have mastered the computer networks and been familiar with C++ programming as basis. In addition, you need some experiences in operating Linux system.
