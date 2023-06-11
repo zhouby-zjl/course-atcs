@@ -7,7 +7,7 @@ College of Intelligent Science and Technology, Hangzhou Institute for Advanced S
 
 **Instructor:** ZHOU Boyang <<zhouby@zhejianglab.com>>, Zhejiang Lab
 
-**Teaching Assistant:** NIE Yinghui <<nieyh@zhejianglab.com>>, Zhejiang Lab, YU Wenjie <<yuwenjie22@mails.ucas.ac.cn>>
+**Teaching Assistant:** NIE Yinghui <<nieyh@zhejianglab.com>> (Zhejiang Lab), YU Wenjie <<yuwenjie22@mails.ucas.ac.cn>> (HIAS, UCAS)
 
 **Lecture Time:** On Monday 14:20-17:10 pm and Friday 14:20-16:10 pm from Jun. 12th, 2023 to Jul. 7th, 2023.
 
