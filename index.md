@@ -7,9 +7,9 @@ College of Intelligent Science and Technology, Hangzhou Institute for Advanced S
 
 **Instructor:** ZHOU Boyang <<zhouby@zhejianglab.com>>, Zhejiang Lab
 
-**Teaching Assistant:** NIE Yinghui <<nieyh@zhejianglab.com>>, Zhejiang Lab
+**Teaching Assistant:** NIE Yinghui <<nieyh@zhejianglab.com>>, Zhejiang Lab, YU Wenjie <<yuwenjie22@mails.ucas.ac.cn>>
 
-**Lecture Time:** On xxx xx:xx-xx:xx pm and xxx xx:xx-xx:xx pm from Jun. 12th, 2023 to Jul. 9th, 2023 (to be confirmed soon).
+**Lecture Time:** On Monday 14:20-17:10 pm and Friday 14:20-16:10 pm from Jun. 12th, 2023 to Jul. 7th, 2023.
 
 **Prerequisites:** This course assumes that you have mastered the computer networks and been familiar with C++ programming as basis. In addition, you need some experiences in operating Linux system.
 
@@ -75,5 +75,5 @@ College of Intelligent Science and Technology, Hangzhou Institute for Advanced S
 
 ## Programming Assignments
 **Programming assignment: Understanding the congestion control process in TCP in NS-3**
-- The assignment helps you to learn the dynamic QoS performance of TCP under different link congestion levels through using the well-known NS-3 simulator. You need to download the assignment from **[this link](https://raw.githubusercontent.com/zhouby-zjl/course-atcs/gh-pages/Experiments/Programming-Assignment.pdf)**, and follow the instructions inside the assignment to setup the necessary experiment environment before Jun. 9th, 2023. 
+- The assignment helps you to learn the dynamic QoS performance of TCP under different link congestion levels through using the well-known NS-3 simulator. You need to download the assignment from **[this link](https://raw.githubusercontent.com/zhouby-zjl/course-atcs/gh-pages/Experiments/Programming-Assignment.pdf)**, and follow the instructions inside the assignment to setup the necessary experiment environment. 
 
