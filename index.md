@@ -24,25 +24,25 @@ College of Intelligent Science and Technology, Hangzhou Institute for Advanced S
 - 1.5 Future Internet architectures
 
 **Week 2:**
-- 2.1 Software-defined networking architecture
-- 2.2 Technolgoies in SDN I
-- 2.3 Paper discussions seminar I
-- 2.4 Technolgoies in SDN II
+- 2.1 Software-defined networking I
+- 2.2 Software-defined networking II
+- 2.3 Software-defined networking III
+- 2.4 Software-defined networking IV
 - 3.1 Named-data networking I
 
 **Week 3:**
 - 3.2 Named-data networking II
-- 3.3 Paper discussions seminar II
-- 3.4 Named-data networking III
+- 3.3 Named-data networking III
+- 3.4 Named-data networking IV
 - 4.1 Industrial Internet framework
 - 4.2 Time sensitive networking technologies
 
 **Week 4:**
-- 4.3 Paper discussions seminar III
-- 4.4 Smart grid communications and security I
-- 4.5 Smart grid communications and security II
-- 5.1 Oral presentation I
-- 5.2 Oral presentation II
+- 4.3 Smart grid communications and security I
+- 4.4 Smart grid communications and security II
+- 5.1 Paper discussions seminar III
+- 5.2 Paper discussions seminar III
+- 5.3 Oral presentation
 
 ## List of papers to read in each week of the course:
 (Note that the following materials contained are only used for educational purposes)
