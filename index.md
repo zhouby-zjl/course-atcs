@@ -40,8 +40,8 @@ College of Intelligent Science and Technology, Hangzhou Institute for Advanced S
 **Week 4:**
 - 4.3 Smart grid communications and security I
 - 4.4 Smart grid communications and security II
-- 5.1 Paper discussions seminar III
-- 5.2 Paper discussions seminar III
+- 5.1 Paper discussions seminar I
+- 5.2 Paper discussions seminar II
 - 5.3 Oral presentation
 
 ## List of papers to read in each week of the course:
